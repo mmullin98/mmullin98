@@ -6,4 +6,4 @@
 
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
-https://img.shields.io/twitter/url?style=social
+![Twitter Follow](https://img.shields.io/twitter/follow/mmullin98?style=social)
