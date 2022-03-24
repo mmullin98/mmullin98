@@ -6,7 +6,7 @@
 - ✏️ I’m currently learning **Python, Java, R & Ethical Hacking Tools**
 - 📧 michael.mullin@ucdconnect.ie
 
-### 🔗 My Links:
+#### 🔗 My Links:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/michael-mullin10/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
@@ -15,7 +15,7 @@
 </p>
 
 
-### 📃 Languages:
+#### 📃 Languages:
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
@@ -23,8 +23,4 @@
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
 </p>
-
-<p align="left"> 
-<a href="https://github.com/mmullin98/github-readme-stats"><img alt="Michael's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmullin98&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> 
- 
 ![Twitter Follow](https://img.shields.io/twitter/follow/mmullin98?style=social)
