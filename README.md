@@ -1,22 +1,12 @@
-- 👋 Hi, I’m Michael !
-- 👀 I’m interested in Data Science & Sports Analytics
-- 🌱 I’m currently learning Python, Java, R
-- 📫 How to reach me: Twitter - mmullin98, 
-                       LinkedIn - Michael Mullin
-
-
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-
-
 <h2 align="center">Michael Mullin</h2>
 <h3 align="left">Dublin, Ireland</h3>
 
-## ⭐ About Me:
+### ⭐ About Me:
 - 📚 Currently in my 4th year of [UCD BSc Computer Science with Data Science ](https://www.myucd.ie/courses/science/computer-science-data-science/)
 - ✏️ I’m currently learning **Python, Java, R & Ethical Hacking Tools**
 - 📧 michael.mullin@ucdconnect.ie
 
-## 🔗 My Links:
+### 🔗 My Links:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/michael-mullin10/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
@@ -25,7 +15,7 @@
 </p>
 
 
-## 📃 Languages:
+### 📃 Languages:
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
