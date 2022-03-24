@@ -9,11 +9,11 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/mmullin98?style=social)
 
 <h2 align="center">Michael Mullin</h2>
-<h3 align="center">Dublin, Ireland</h3>
+<h3 align="left">Dublin, Ireland</h3>
 
-## About Me: <img align="right" width="200" height="200"></a>
+## About Me:
 - 📚 Currently in my 4th year of [UCD BSc Computer Science with Data Science ](https://www.myucd.ie/courses/science/computer-science-data-science/)
-- ✏️: I’m currently learning **Python, Java, R & Ethical Hacking Tools**
+- ✏️ I’m currently learning **Python, Java, R & Ethical Hacking Tools**
 - 📧 michael.mullin@ucdconnect.ie
 
 ## Connect with me:
@@ -28,10 +28,10 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
-    <a <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <a img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
+    <a img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
 </p>
 
 <p align="left"> 
