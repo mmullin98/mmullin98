@@ -9,9 +9,9 @@
 #### 🔗 My Links:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/michael-mullin10/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
- <a href = "https://www.instagram.com/mmullin98/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://twitter.com/mmullin98"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.linkedin.com/in/michael-mullin10/"><img src="https://img.icons8.com/fluent/30/000000/linkedin.png"/></a>
+ <a href = "https://www.instagram.com/mmullin98/"><img src="https://img.icons8.com/fluent/30/000000/instagram-new.png"/></a>
+<a href = "https://twitter.com/mmullin98"><img src="https://img.icons8.com/fluent/30/000000/twitter.png"/></a>
 </p>
 
 
