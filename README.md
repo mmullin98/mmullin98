@@ -23,4 +23,5 @@
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/30/000000/python.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/30/000000/mysql-logo.png"/> </a>
 </p>
+
 ![Twitter Follow](https://img.shields.io/twitter/follow/mmullin98?style=social)
