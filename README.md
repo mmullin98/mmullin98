@@ -1,7 +1,7 @@
 <h2 align="center">Michael Mullin</h2>
 <h4 align="left">Dublin, Ireland</h4>
 
-### ⭐ About Me:
+#### ⭐ About Me:
 - 📚 Currently in my 4th year of [UCD BSc Computer Science with Data Science ](https://www.myucd.ie/courses/science/computer-science-data-science/)
 - ✏️ I’m currently learning **Python, Java, R & Ethical Hacking Tools**
 - 📧 michael.mullin@ucdconnect.ie
