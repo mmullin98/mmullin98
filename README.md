@@ -4,3 +4,6 @@
 - 📫 How to reach me: Twitter - mmullin98, 
                        LinkedIn - Michael Mullin
 
+
+
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
