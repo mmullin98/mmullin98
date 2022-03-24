@@ -1,5 +1,5 @@
 <h2 align="center">Michael Mullin</h2>
-<h3 align="left">Dublin, Ireland</h3>
+<h4 align="left">Dublin, Ireland</h4>
 
 ### ⭐ About Me:
 - 📚 Currently in my 4th year of [UCD BSc Computer Science with Data Science ](https://www.myucd.ie/courses/science/computer-science-data-science/)
@@ -22,7 +22,7 @@
     <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://www.r-project.org/" target="_blank"> <img src="https://img.icons8.com/external-becris-flat-becris/344/external-r-data-science-becris-flat-becris.png"/> </a>  
 </p>
 
 <p align="left"> 
