@@ -4,7 +4,7 @@
 #### ⭐ About Me:
 - 📚 I recently graduated from University College Dublin (UCD) with a Bachelors degree (2.1) in [Computer Science with Data Science](https://www.myucd.ie/courses/science/computer-science-data-science/)
 - ✏️ I’m currently learning **Python, Java, R & Ethical Hacking Tools**
-- 📧 michael.mullin@ucdconnect.ie
+- 📧 michael98mullin@gmail.com
 
 #### 🔗 My Links:
 <p align="left">
